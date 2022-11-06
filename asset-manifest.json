@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-react-tally-web/static/css/main.fbe316e0.css",
+    "main.js": "/my-react-tally-web/static/js/main.f9862445.js",
+    "index.html": "/my-react-tally-web/index.html",
+    "main.fbe316e0.css.map": "/my-react-tally-web/static/css/main.fbe316e0.css.map",
+    "main.f9862445.js.map": "/my-react-tally-web/static/js/main.f9862445.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe316e0.css",
+    "static/js/main.f9862445.js"
+  ]
+}
